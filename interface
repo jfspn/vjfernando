@@ -1,0 +1,94 @@
+{
+  "$jason": {
+    "head": {
+      "title": "MERCUBUANA",
+      "offline": "true"
+    },
+    "body": {
+      "style": {
+        "background": "https://1.bp.blogspot.com/-HwDUAbovdoQ/WpeDKoeYl3I/AAAAAAAAAb8/FHOdCD32ktorub79HIG3tvwcQeYU0LESQCLcBGAs/s1600/foto%2Bcopy.jpg",
+        "border": "100%"
+      },
+      "header": {
+        "style": {
+          "background": "#000040",
+          "color": "#ffffff"
+        },
+        "title": "Universitas Mercu Buana",
+        "menu": {
+          "text": "UMB",
+          "style": {
+            "color": "#ffffff"
+          }
+        }
+      },
+      "layers": [
+        {
+          "type": "label",
+          "image": {
+            "url": "https://1.bp.blogspot.com/-aEfk24BWAPo/WpdwRGja_RI/AAAAAAAAAbc/CWtyj_f_6Cs1D6WYCuk0rD02WEyGsHbcwCLcBGAs/s1600/1416217983info.jpeg",
+            "href": {
+              "url": "http://www.mercubuana.ac.id/id/",
+              "view": "web"
+            }
+          },
+          "text": "INFO",
+          "style": {
+            "font": "Pasifico-bold",
+            "top": "74",
+            "right": "10",
+            "padding": "5",
+            "background": "#483D8B",
+            "color": "#ffffff",
+            "corner_radius": "10",
+            "align": "center",
+            "width": "85",
+            "height": "13%",
+            "opacity": "0.8"
+          }
+        },
+        {
+          "type": "label",
+          "text": "SIA",
+          "href": {
+            "url": "http://www.mercubuana.ac.id/id/"
+          },
+          "style": {
+            "font": "Pasifico-bold",
+            "top": "190",
+            "right": "10",
+            "padding": "5",
+            "background": "#483D8B",
+            "color": "#ffffff",
+            "corner_radius": "10",
+            "align": "center",
+            "width": "85",
+            "height": "13%",
+            "opacity": "0.8"
+          }
+        },
+        {
+          "type": "button",
+          "text": "SUPPORT",
+          "href": {
+            "url": "http://www.mercubuana.ac.id/id/",
+            "view": "app"
+          },
+          "style": {
+            "font": "Pasifico-bold",
+            "top": "305",
+            "right": "10",
+            "padding": "5",
+            "background": "#483D8B",
+            "color": "#ffffff",
+            "corner_radius": "10",
+            "align": "center",
+            "width": "85",
+            "height": "13%",
+            "opacity": "0.8"
+          }
+        }
+      ]
+    }
+  }
+}
